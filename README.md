@@ -41,6 +41,7 @@ Al cargar la aplicación se obtiene un usuario inicial y, mediante un botón, el
 
 - Extraer la lógica de notificaciones a una capa más desacoplada.
 - Optimizar la experiencia visual con animaciones suaves en los estados de carga.
+- Mejorar la responsividad de la interfaz de usuario.
 - Refactorizar el custom hook `useRandomUser` para unificar el manejo de respuestas de la API y reducir duplicación de lógica.
 
 ---
